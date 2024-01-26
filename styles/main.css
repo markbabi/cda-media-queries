@@ -43,4 +43,7 @@ h1 {
     margin: 1.25vw 0;
     background: lightpink;
   }
+}
+.gallery__item--favourite {
+  background-color: lightgoldenrodyellow;
 }/*# sourceMappingURL=main.css.map */
